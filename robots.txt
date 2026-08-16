@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fin9ep.saturadar88.online/sitemap.xml
